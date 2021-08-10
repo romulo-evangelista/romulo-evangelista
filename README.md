@@ -21,9 +21,10 @@
   
 <div>
   <a href="https://www.linkedin.com/in/r%C3%B4mulo-evangelista-ferreira-912294161/">
-    <img alt="linkedin redirect" target="_blank" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="linkedin redirect" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:romuloevangelista2011@gmail.com" target="_blank">
+  <a href="mailto:romuloevangelista2011@gmail.com">
     <img alt="mail to romulo evangelista" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+  
